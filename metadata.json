@@ -1,0 +1,6 @@
+{
+  "name": "钟意の博客",
+  "description": "全栈毛玻璃质感，亮色暗色双主题，微交互动画驱动的个人博客",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
